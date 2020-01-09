@@ -36,5 +36,5 @@ function checkOffItem(){
 
 
 $(addShoppingItem)
-$(checkOffItem)
 $(removeItem)
+$(checkOffItem)
